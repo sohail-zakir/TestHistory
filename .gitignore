@@ -46,3 +46,5 @@ bin/
 
 application.pid
 
+/dbConfiguration.json
+
